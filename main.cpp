@@ -1,3 +1,5 @@
+// Welcome to project work of computer science
+/*This project is based on the concept of looping*/
 #include <iostream>
 
 using namespace std;
